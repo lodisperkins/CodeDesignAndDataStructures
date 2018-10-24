@@ -38,10 +38,6 @@ hero getlowest(hero arr[], int size)
 	}
 	return arr[0];
 }
-hero getlowestagain(hero arr[], int size)
-{
-
-}
 
 int main()
 {
